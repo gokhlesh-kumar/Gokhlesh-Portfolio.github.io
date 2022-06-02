@@ -43,9 +43,9 @@ body
     box-sizing: border-box;
 }
 
-/* ul{
+ul{
     list-style: none;
-} */
+}
 
 .section
 {
@@ -669,7 +669,6 @@ h3.my-profession
     text-align: justify;
     color: var(--text-black-700);
 }
-
 
 /* achieve */
 
