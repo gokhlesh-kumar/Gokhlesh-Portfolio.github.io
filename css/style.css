@@ -419,7 +419,7 @@ h3.my-profession
     position: absolute;
     height: 80px;
     width: 80px;
-    left: -20px;
+    left: 10px;
     top: -40px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
